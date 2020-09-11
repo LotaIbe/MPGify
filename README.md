@@ -1,4 +1,4 @@
-# MPGify
+# mpg-prediction
 Web-page that trains a model in browser using Tensorflow.js
 ***
 Given "Horsepower" for a car, this model will learn to predict "Miles per Gallon" (MPG).
@@ -9,7 +9,7 @@ Given "Horsepower" for a car, this model will learn to predict "Miles per Gallon
 - Train the model and monitor its performance as it trains.
 - Evaluate the trained model by making some predictions.
 
-To run this project.
+**To run this project**.
 1. Clone this repository
 2. Navigate to `index.html` and render in your browser
 3. To tweak the model. navigate to `script.js`
