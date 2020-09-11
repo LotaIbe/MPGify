@@ -15,3 +15,5 @@ Given "Horsepower" for a car, this model will learn to predict "Miles per Gallon
 3. To tweak the model. navigate to `script.js`
 4. Try changing the `epoch` number or adden more hidden layers to the neural network
 
+<img src="https://github.com/LotaIbe/mpg-prediction/blob/master/images/Annotation%202020-09-11%20024514.png">
+
